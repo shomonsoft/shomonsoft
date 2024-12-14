@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on software selling
 - 📫 How to reach me : shomonsoft@gmail.com, mobile: +8801912095925 (whatsapp,wechat), Gulshan, Dhaka, Bangladesh. 
-- 😄 Pronouns: ...
+- 💢 Workgin Area: PHP, Laravel, CodeIgniter, Wordpress, Next Js, Vue Js, Oracle, MongoDB and Web Design
 - ✨ Out Web Application Software: Online POS, Pharmacy Management, Co-Operation Society Management, Association Management, Jewellery Shop Software, School Management, Accounting Software, Inventory Management, E-commerce, Market Place, HR & Payroll Management.
 
 <!---
