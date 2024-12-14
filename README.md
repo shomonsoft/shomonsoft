@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shomonsoft
+- 👋 Hi, I’m Shomon Hossain from shomonsoft.com
 - 👀 I’m interested in web development and web design
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on software selling
